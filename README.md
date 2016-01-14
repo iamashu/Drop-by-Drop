@@ -15,11 +15,11 @@ The project with the new team is hosted and can be viewed at http://www.drop-by-
 
 The original team that worked on the project was
 
-Ashutosh Agarwal
+Ashutosh Agarwal (https://github.com/ashuthesmartest)
 
 Aman Pandey
 
-Pranav Agarwal
+Pranav Agarwal (https://github.com/pranav-agarwal)
 
 Rishabh Mishra
 
